@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1732570604 source:e:\collage\codes\project\game\main.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"7x6_FIAR.h"
+
+1723416134 e:\collage\codes\project\game\boardgame_classes.h
+	<string>
+	<vector>
+	<iostream>
+
+1732638951 e:\collage\codes\project\game\3x3x_o.h
+	"BoardGame_Classes.h"
+	<iostream>
+	<iomanip>
+	<cctype>
+
+1732567679 source:e:\collage\codes\project\game\test.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"3x3X_O.h"
+
+1732626618 e:\collage\codes\project\game\7x6_fiar.h
+	<iostream>
+	<iomanip>
+	<cctype>
+	"BoardGame_Classes.h"
+
+1732570604 source:e:\collage\codes\project\game\text.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"3x3X_O.h"
+
+1732639076 source:e:\collage\codes\project\game\3x3x_o.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"3x3X_O.h"
+
+1732639066 source:e:\collage\codes\project\game\7x6_fiar.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"7x6_FIAR.h"
+
+1732648880 source:e:\collage\codes\project\game\3x3numericaltic-tac-toe.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"3x3NumericalTic-Tac-Toe.h"
+
+1732653652 e:\collage\codes\project\game\3x3numericaltic-tac-toe.h
+	"BoardGame_Classes.h"
+	<iostream>
+	<iomanip>
+	<cctype>
+
+1733906356 source:j:\marwan\codeblocks\projects\first\3x3numericaltic-tac-toe.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"3x3NumericalTic-Tac-Toe.h"
+	"7x6_FIAR.h"
+
+1723416134 j:\marwan\codeblocks\projects\first\boardgame_classes.h
+	<string>
+	<vector>
+	<iostream>
+
+1733778534 j:\marwan\codeblocks\projects\first\3x3numericaltic-tac-toe.h
+	"BoardGame_Classes.h"
+	<time.h>
+	<iostream>
+	<iomanip>
+	<cctype>
+
+1732639076 source:j:\marwan\codeblocks\projects\first\3x3x_o.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"3x3X_O.h"
+
+1733293532 j:\marwan\codeblocks\projects\first\3x3x_o.h
+	"BoardGame_Classes.h"
+	<iostream>
+	<iomanip>
+	<cctype>
+
+1732639066 source:j:\marwan\codeblocks\projects\first\7x6_fiar.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"7x6_FIAR.h"
+
+1733294500 j:\marwan\codeblocks\projects\first\7x6_fiar.h
+	<iostream>
+	<iomanip>
+	<cctype>
+	"BoardGame_Classes.h"
+	<limits>
+	<algorithm>
+
+1733906273 source:j:\marwan\codeblocks\projects\first\main.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"3x3X_O.h"
+	"MinMaxPlayer.h"
+
+1733223071 j:\marwan\codeblocks\projects\first\minmaxplayer.h
+	"BoardGame_Classes.h"
+	<limits>
+	<algorithm>
+
+1733294500 j:\marwan\codeblocks\projects\first\minmaxplayer_connect.h
+	"BoardGame_Classes.h"
+	<limits>
+	<algorithm>
+
+1733908313 source:j:\marwan\codeblocks\projects\first\ultimate.cpp
+	<iostream>
+	"BoardGame_Classes.h"
+	"Ultimate.h"
+
+1733909002 j:\marwan\codeblocks\projects\first\ultimate.h
+	<iostream>
+	<iomanip>
+	<cctype>
+	<utility>
+	"BoardGame_Classes.h"
+
